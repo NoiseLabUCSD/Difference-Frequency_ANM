@@ -12,7 +12,7 @@ The codes provide:
 
 -**[Y. Park and P. Gerstoft, “Difference Frequency Gridless Sparse Array Processing,” IEEE Open J. Signal Process. 5, 914–925 (2024).](https://ieeexplore.ieee.org/abstract/document/10591424)**  
 
-[[DF-MUSIC code]](https://github.com/ysparkwin/Difference-Frequency_MUSIC)  
+MUSIC implementation is also available. [[DF-MUSIC code]](https://github.com/ysparkwin/Difference-Frequency_MUSIC)  
 -[Y. Park, P. Gerstoft, and J. H. Lee, “Difference-Frequency MUSIC for DOAs,” IEEE Signal Process. Lett. 29, 2612–2616 (2022).](https://ieeexplore.ieee.org/abstract/document/9992076)  
 
 [[pdf]](https://www.dropbox.com/sh/qgi9symf43rki41/AADSrGg567PS86_S4A7j6aWEa?dl=0)  
