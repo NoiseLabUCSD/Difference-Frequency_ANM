@@ -1,3 +1,11 @@
+% Park, Yongsung and Peter Gerstoft. 
+% "Difference Frequency Gridless Sparse Array Processing."
+% IEEE Open J. Signal Process. 5, 914–925 (2024).
+% https://doi.org/10.1109/OJSP.2024.3425284
+
+%Created by Yongsung Park, SIO UCSD
+%Last updated 2023-09-13
+
 clear; clc;
 close all;
 
