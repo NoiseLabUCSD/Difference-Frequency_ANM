@@ -1,11 +1,20 @@
-% Park, Yongsung and Peter Gerstoft. 
-% "Difference Frequency Gridless Sparse Array Processing."
-% IEEE Open J. Signal Process. 5, 914–925 (2024).
+% Version 1.0: (09/13/2024)
+% written by Yongsung Park
+
+% Yongsung Park & Peter Gerstoft
+% MPL/SIO/UCSD
+% yongsungpark@ucsd.edu / gerstoft@ucsd.edu
+% noiselab.ucsd.edu
+
+% Citation
+% Y. Park and P. Gerstoft, “Difference Frequency Gridless Sparse Array Processing,” IEEE Open J. Signal Process. 5, 914–925 (2024).
 % https://doi.org/10.1109/OJSP.2024.3425284
 
-%Created by Yongsung Park, SIO UCSD
-%Last updated 2023-09-13
+% MUSIC implementation is also available.
+% Y. Park, P. Gerstoft, and J. H. Lee, “Difference-Frequency MUSIC for DOAs,” IEEE Signal Process. Lett. 29, 2612–2616 (2022).
+% https://doi.org/10.1109/LSP.2022.3230365
 
+%%
 clear; clc;
 close all;
 
